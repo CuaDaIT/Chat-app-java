@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="wellcome_title">Connect to your family and friend everywhere</string>
+    <string name="tns">Term &amp; Privacy Policy</string>
+    <string name="start_messaging">Start Messaging</string>
+    <string name="save">Save</string>
+    <string name="first_name_required">First Name (Required)</string>
+    <string name="last_name_optional">Last Name (Optional)</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="contact">Contacts</string>
+    <string name="chat">Chats</string>
+    <string name="more">More</string>
+    <string name="contacts_title">Contacts</string>
+    <string name="search">Search</string>
+    <string name="chats">Chats</string>
+    <string name="account">Account</string>
+    <string name="appereance">Appereance</string>
+    <string name="notification">Notification</string>
+    <string name="help">Help</string>
+</resources>
